@@ -3,5 +3,5 @@ Change the file to see what happened.!!!
 
 Git has one stage area;
 
-Git tracks changes.
+Git tracks changes of files.
 
